@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1760710620 source:s:\2    programmimg\v.002\sertifications\projectsforgethub\bank_system\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<iomanip>
+
